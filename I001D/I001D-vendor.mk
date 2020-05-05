@@ -131,4 +131,5 @@ PRODUCT_PACKAGES += \
     QAS_DVC_MSP \
     dpmserviceapp \
     ims \
-    qcrilmsgtunnel
+    qcrilmsgtunnel \
+    qti-telephony-common
